@@ -1,0 +1,40 @@
+body {
+    background-color: #2b2f32;
+}
+
+
+.logo {
+    display: inline-block;
+    height: 30px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+/* Slider */
+
+.carousel-item {
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-item img {
+    object-fit: cover;/*  Ajuste la taille de l'image pour remplir le conteneur*/
+    left: 60px;
+    object-position: center center; /* Centre l'image horizontalement et verticalement */
+}
+
+.liSlider {
+    display: block
+}
+
+.liSlider:before {
+    content: counters(item, ".")" ";
+    counter-increment: item
+}
+
+
+.carousel-inner{
+    height: 500px;
+}
+
+/* Fin Slider */
