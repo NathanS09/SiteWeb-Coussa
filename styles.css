@@ -12,15 +12,86 @@ body {
 
 /* Slider */
 
-.carousel-item {
+.custom-slider { display: none; }
+.slide-container {
+    max-width: 800px;
+    position: relative;
+    margin: auto;
+}
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 60px;
+    height: 60px;
+    display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 50%;
+    color: white;
+    font-size: 30px;
+    background-color: rgba(0,0,0,0);
+    transition: background-color 0.6s ease;
+}
+.prev{ left: 15px; }
+.next { right: 15px; }
+.prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.5);
+}
+.slide-text {
+    position: absolute;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 15px;
+    bottom: 15px;
+    width: 100%;
+    text-align: center;
+}
+.slide-index {
+    color: #ffffff;
+    font-size: 13px;
+    padding: 15px;
+    position: absolute;
+    top: 0;
+}
+.slide-img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
+.slide-dot{ text-align: center; }
+.dot {
+    cursor: pointer;
+    height: 10px;
+    width: 10px;
+    margin: 0 2px;
+    background-color: #999999;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+.active, .dot:hover { background-color: #111111; }
+.fade {
+    animation-name: fade;
+    animation-duration: 1s;
+}
+@keyframes fade {
+    from {opacity: 0}
+    to {opacity: 1}
+}
+
+
+
+
+
+.carousel-item {
+
+
 }
 
 .carousel-item img {
-    object-fit: cover;/*  Ajuste la taille de l'image pour remplir le conteneur*/
-    left: 60px;
-    object-position: center center; /* Centre l'image horizontalement et verticalement */
 }
 
 .liSlider {
@@ -35,6 +106,53 @@ body {
 
 .carousel-inner{
     height: 500px;
+    /*left: 78px;*/
 }
 
+.slidePerso{
+    height: 500px;
+    width: 100%;
+    background-color: #2b2f32;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+#demo {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
 /* Fin Slider */
+/* Actu */
+
+.news-container {
+    max-width: 600px;
+    margin: 0 auto;
+    border-top: 1px solid #ccc; /* Ajoute une bordure supérieure à la section d'actualités */
+    padding-top: 20px;
+}
+
+.news-item {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.news-item .post-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.news-item .post-message {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+.news-item .post-date {
+    font-size: 12px;
+    color: #888;
+}
