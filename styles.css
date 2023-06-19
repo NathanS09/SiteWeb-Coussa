@@ -1,11 +1,21 @@
 body {
-    background-color: #2b2f32;
+    background-color: #1A4AB3;
 }
 
+header {
+    border-bottom: 1px solid #1a1d20;
+}
 
+footer {
+    border-top: 1px solid #1a1d20;
+}
+
+.colorHeader{
+    background-color: #1C870F;
+}
 .logo {
     display: inline-block;
-    height: 30px;
+    height: 40px;
     margin-right: 10px;
     vertical-align: middle;
 }
@@ -123,6 +133,7 @@ body {
     height: 500px;
     overflow: hidden;
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 /* Fin Slider */
 /* Actu */
