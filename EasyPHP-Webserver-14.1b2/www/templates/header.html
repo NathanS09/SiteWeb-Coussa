@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<header class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/logo.jpg" alt="Logo" class="logo">
+            FC Coussa Hers
+        </a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item mainNav">
+                    <a class="nav-link" href="../pages/index.html"><i class="fas fa-home"></i> Accueil</a>
+                </li>
+                <li class="nav-item with-submenu mainNav bg-dark">
+                    <a class="nav-link" href="#" onMouseOver="showSubmenu()" onMouseOut="hideSubmenu()"><i class="fas fa-info-circle"></i> Le club <i class="fas fa-chevron-down"></i></a>
+                    <ul class="submenu ms-auto navbar-nav" id="submenu" onMouseOver="showSubmenu()" onMouseOut="hideSubmenu()">
+                        <li class="nav-item subNav">
+                            <a class="nav-link" href="../pages/lebureau.html"><i class="fas fa-users-cog"></i></i> Le bureau</a>
+                        </li>
+                        <li class="nav-item subNav">
+                            <a class="nav-link" href="../pages/Sites.html"><i class="fas fa-map-marked-alt"></i> Sites (Pujol Coussa)</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="nav-item mainNav">
+                    <a class="nav-link" href="../pages/Equipes.html"><i class="fas fa-users"></i> Equipes</a>
+                </li>
+                <li class="nav-item mainNav with-submenu2">
+                    <a class="nav-link" href="#" onMouseOver="showSubmenu2()" onMouseOut="hideSubmenu2()"><i class="fas fa-trophy"></i> Competitions <i class="fas fa-chevron-down"></i></a> <!-- https://ariegefoot.fff.fr/competitions?tab=ranking&id=396361&phase=1&poule=1&type=ch -->
+                    <ul class="submenu2 ms-auto navbar-nav" id="submenu2" onMouseOver="showSubmenu2()" onMouseOut="hideSubmenu2()">
+                        <li class="nav-item subNav">
+                            <a class="nav-link" target="_blank"  href="https://ariegefoot.fff.fr/competitions?tab=ranking&id=396361&phase=1&poule=1&type=chl"> Senior D1</a>
+                        </li>
+                        <li class="nav-item subNav">
+                            <a class="nav-link" target="_blank" href="https://ariegefoot.fff.fr/competitions?tab=ranking&id=396363&phase=1&poule=2&type=ch"> Senior D3</a>
+                        </li>
+                        <li class="nav-item subNav">
+                            <a class="nav-link" target="_blank" href="https://ariegefoot.fff.fr/competitions?tab=ranking&id=405564&phase=1&poule=1&type=ch"> U13 1 & 2</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="nav-item mainNav">
+                    <a class="nav-link" href="../pages/Partenaires.html"><i class="fas fa-handshake"></i> Partenaires</a>
+                </li>
+                <li class="nav-item mainNav">
+                    <a class="nav-link" href="http://team.jako.fr/fr/team/f_c_coussa_hers/" target="_blank"><i class="fas fa-shopping-cart"></i> Boutique</a>
+                </li>
+                <li class="nav-item mainNav">
+                    <a class="nav-link" href="../pages/contact.html"><i class="fas fa-envelope"></i> Contact </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</header>
+
+<div class="container-fluid bandeau">
+    <div class="row">
+        <div class="col-12 col d-flex justify-content-center align-items-center">
+            <img src="../assets/bandeau%201%20FCCH.jpg" alt="Terrain" class="img-fluid">
+        </div>
+    </div>
+
+
+
+</body>
+</html>

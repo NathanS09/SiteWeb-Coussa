@@ -1,0 +1,32 @@
+[Tue Jun 20 21:15:33.303258 2023] [mpm_winnt:notice] [pid 16512:tid 620] AH00455: Apache/2.4.10 (Win32) PHP/5.4.31 configured -- resuming normal operations
+[Tue Jun 20 21:15:33.304258 2023] [mpm_winnt:notice] [pid 16512:tid 620] AH00456: Apache Lounge VC9 Server built: Jul 19 2014 13:07:40
+[Tue Jun 20 21:15:33.304258 2023] [core:notice] [pid 16512:tid 620] AH00094: Command line: 'D:\\gitlab\\SiteWeb-Coussa\\EasyPHP-Webserver-14.1b2\\binaries\\httpserver\\bin\\ews-httpd.exe -d D:/gitlab/SiteWeb-Coussa/EasyPHP-Webserver-14.1b2/binaries/httpserver'
+[Tue Jun 20 21:15:33.309583 2023] [mpm_winnt:notice] [pid 16512:tid 620] AH00418: Parent: Created child process 35616
+[Tue Jun 20 21:15:34.166828 2023] [mpm_winnt:notice] [pid 35616:tid 836] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 20 21:17:06.441695 2023] [mpm_winnt:notice] [pid 16512:tid 620] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 20 21:17:36.446885 2023] [mpm_winnt:notice] [pid 16512:tid 620] AH00431: Parent: Forcing termination of child process 35616
+[Tue Jun 20 21:17:44.021319 2023] [mpm_winnt:notice] [pid 28968:tid 580] AH00455: Apache/2.4.10 (Win32) PHP/5.4.31 configured -- resuming normal operations
+[Tue Jun 20 21:17:44.021319 2023] [mpm_winnt:notice] [pid 28968:tid 580] AH00456: Apache Lounge VC9 Server built: Jul 19 2014 13:07:40
+[Tue Jun 20 21:17:44.021319 2023] [core:notice] [pid 28968:tid 580] AH00094: Command line: 'D:\\gitlab\\SiteWeb-Coussa\\EasyPHP-Webserver-14.1b2\\binaries\\httpserver\\bin\\ews-httpd.exe -d D:/gitlab/SiteWeb-Coussa/EasyPHP-Webserver-14.1b2/binaries/httpserver'
+[Tue Jun 20 21:17:44.028321 2023] [mpm_winnt:notice] [pid 28968:tid 580] AH00418: Parent: Created child process 35480
+[Tue Jun 20 21:17:45.159587 2023] [mpm_winnt:notice] [pid 35480:tid 844] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 20 21:18:18.297637 2023] [:error] [pid 35480:tid 1344] [client 192.168.1.87:58941] PHP Notice:  Undefined index: name in D:\\gitlab\\SiteWeb-Coussa\\EasyPHP-Webserver-14.1b2\\www\\envoyer_email.php on line 7, referer: http://192.168.1.87:888/pages/contact.html
+[Tue Jun 20 21:18:18.297637 2023] [:error] [pid 35480:tid 1344] [client 192.168.1.87:58941] PHP Warning:  mail(): &quot;sendmail_from&quot; not set in php.ini or custom &quot;From:&quot; header missing in D:\\gitlab\\SiteWeb-Coussa\\EasyPHP-Webserver-14.1b2\\www\\envoyer_email.php on line 17, referer: http://192.168.1.87:888/pages/contact.html
+[Tue Jun 20 21:19:49.918658 2023] [mpm_winnt:notice] [pid 28968:tid 580] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 20 21:19:51.939828 2023] [mpm_winnt:notice] [pid 35480:tid 844] AH00364: Child: All worker threads have exited.
+[Tue Jun 20 21:19:51.979138 2023] [mpm_winnt:notice] [pid 28968:tid 580] AH00430: Parent: Child process 35480 exited successfully.
+[Tue Jun 20 21:21:54.689006 2023] [mpm_winnt:notice] [pid 13984:tid 592] AH00455: Apache/2.4.10 (Win32) PHP/5.4.31 configured -- resuming normal operations
+[Tue Jun 20 21:21:54.689006 2023] [mpm_winnt:notice] [pid 13984:tid 592] AH00456: Apache Lounge VC9 Server built: Jul 19 2014 13:07:40
+[Tue Jun 20 21:21:54.689006 2023] [core:notice] [pid 13984:tid 592] AH00094: Command line: 'D:\\gitlab\\SiteWeb-Coussa\\EasyPHP-Webserver-14.1b2\\binaries\\httpserver\\bin\\ews-httpd.exe -d D:/gitlab/SiteWeb-Coussa/EasyPHP-Webserver-14.1b2/binaries/httpserver'
+[Tue Jun 20 21:21:54.694990 2023] [mpm_winnt:notice] [pid 13984:tid 592] AH00418: Parent: Created child process 25620
+[Tue Jun 20 21:21:55.668882 2023] [mpm_winnt:notice] [pid 25620:tid 880] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 20 21:22:19.313329 2023] [:error] [pid 25620:tid 1344] [client 192.168.1.87:59139] PHP Notice:  Undefined index: name in D:\\gitlab\\SiteWeb-Coussa\\EasyPHP-Webserver-14.1b2\\www\\envoyer_email.php on line 7, referer: http://192.168.1.87:888/pages/contact.html
+[Tue Jun 20 21:22:19.313329 2023] [:error] [pid 25620:tid 1344] [client 192.168.1.87:59139] PHP Warning:  mail(): &quot;sendmail_from&quot; not set in php.ini or custom &quot;From:&quot; header missing in D:\\gitlab\\SiteWeb-Coussa\\EasyPHP-Webserver-14.1b2\\www\\envoyer_email.php on line 17, referer: http://192.168.1.87:888/pages/contact.html
+[Tue Jun 20 21:29:10.188880 2023] [mpm_winnt:notice] [pid 13984:tid 592] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 20 21:29:12.209617 2023] [mpm_winnt:notice] [pid 25620:tid 880] AH00364: Child: All worker threads have exited.
+[Tue Jun 20 21:29:12.231660 2023] [mpm_winnt:notice] [pid 13984:tid 592] AH00430: Parent: Child process 25620 exited successfully.
+[Tue Jun 20 21:29:22.677751 2023] [mpm_winnt:notice] [pid 36616:tid 580] AH00455: Apache/2.4.10 (Win32) PHP/5.4.31 configured -- resuming normal operations
+[Tue Jun 20 21:29:22.677751 2023] [mpm_winnt:notice] [pid 36616:tid 580] AH00456: Apache Lounge VC9 Server built: Jul 19 2014 13:07:40
+[Tue Jun 20 21:29:22.677751 2023] [core:notice] [pid 36616:tid 580] AH00094: Command line: 'D:\\gitlab\\SiteWeb-Coussa\\EasyPHP-Webserver-14.1b2\\binaries\\httpserver\\bin\\ews-httpd.exe -d D:/gitlab/SiteWeb-Coussa/EasyPHP-Webserver-14.1b2/binaries/httpserver'
+[Tue Jun 20 21:29:22.682753 2023] [mpm_winnt:notice] [pid 36616:tid 580] AH00418: Parent: Created child process 32064
+[Tue Jun 20 21:29:23.451925 2023] [mpm_winnt:notice] [pid 32064:tid 608] AH00354: Child: Starting 64 worker threads.
