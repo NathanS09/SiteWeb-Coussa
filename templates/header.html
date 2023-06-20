@@ -35,14 +35,22 @@
                 <li class="nav-item mainNav">
                     <a class="nav-link" href="#"><i class="fas fa-users"></i> Equipes</a>
                 </li>
-                <li class="nav-item mainNav">
-                    <a class="nav-link" href="#" target="_blank"><i class="fas fa-trophy"></i> Competitions</a>
+                <li class="nav-item mainNav with-submenu2">
+                    <a class="nav-link" href="#" onMouseOver="showSubmenu2()" onMouseOut="hideSubmenu2()><i class="fas fa-trophy"></i> Competitions <i class="fas fa-chevron-down"></i></a> <!-- https://ariegefoot.fff.fr/competitions?tab=ranking&id=396361&phase=1&poule=1&type=ch -->
+                    <ul class="submenu2 ms-auto navbar-nav" id="submenu2" onMouseOver="showSubmenu2()" onMouseOut="hideSubmenu2()">
+                        <li class="nav-item subNav">
+                            <a class="nav-link" href="../pages/lebureau.html"> Senior 1</a>
+                        </li>
+                        <li class="nav-item subNav">
+                            <a class="nav-link" href="#"> Senior)</a>
+                        </li>
+                    </ul>
                 </li>
                 <li class="nav-item mainNav">
                     <a class="nav-link" href="#"><i class="fas fa-handshake"></i> Partenaires</a>
                 </li>
                 <li class="nav-item mainNav">
-                    <a class="nav-link" href="#" target="_blank"><i class="fas fa-shopping-cart"></i> Boutique</a>
+                    <a class="nav-link" href="http://team.jako.fr/fr/team/f_c_coussa_hers/" target="_blank"><i class="fas fa-shopping-cart"></i> Boutique</a>
                 </li>
                 <li class="nav-item mainNav">
                     <a class="nav-link" href="../pages/contact.html"><i class="fas fa-envelope"></i> Contact </a>

@@ -33,3 +33,11 @@ function showSubmenu() {
 function hideSubmenu() {
     document.getElementById("submenu").style.display = "none";
 }
+
+function showSubmenu2() {
+    document.getElementById("submenu2").style.display = "block";
+}
+
+function hideSubmenu2() {
+    document.getElementById("submenu2").style.display = "none";
+}
