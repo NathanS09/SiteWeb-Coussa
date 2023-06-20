@@ -4,7 +4,14 @@ Background du body: Vert foncé (#006400)
  */
 
 body {
-    background-color: #1A4AB3;
+    background-color: #dedede;
+}
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 header {
@@ -34,13 +41,17 @@ footer {
 .submenu {
     display: none;
     position: absolute;
-    background-color: #0B7511;
     z-index: 999;
+    background-color: #343a40;
     border-left: 1px solid black;
 }
 
 .with-submenu:hover .submenu {
     display: block;
+}
+
+.nav-item:hover {
+    background-color: #333333;
 }
 
 /* Header  */
@@ -157,6 +168,7 @@ footer {
     margin: 0 auto;
     border-top: 1px solid #ccc; /* Ajoute une bordure supérieure à la section d'actualités */
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .news-item {
@@ -183,3 +195,12 @@ footer {
 }
 
 /* Actu */
+/* Matchs */
+
+#\ latest-matches {
+    border-top: 1px solid #ccc; /* Ajoute une bordure supérieure à la section d'actualités */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* Matchs */
