@@ -1,0 +1,17 @@
+.position {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #dee2e6;
+    margin-bottom: 20px;
+}
+
+.position h4 {
+    margin-top: 0;
+}
+
+@media (max-width: 767px) {
+    .position {
+        padding: 10px;
+    }
+}
