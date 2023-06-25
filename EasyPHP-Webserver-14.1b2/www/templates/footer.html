@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="../css/bootstrap/bootstrap.css">
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css' rel='stylesheet' />
+
     <link rel="stylesheet" href="../css/styles.css">
     <title>Title</title>
 </head>
@@ -13,30 +15,28 @@
             <div class="col-md-6">
                 <h4>Contactez-nous</h4>
                 <p>
-                    Adresse :17 Rue du Château, 09100 Les Pujols <br>
-                    Ville : Les pujols<br>
+                    Adresse : 17 Rue du Château, 09100 Les Pujols <br>
+                    Ville : Les Pujols<br>
                     Téléphone : 05 61 68 71 44<br>
                     Email : 581747@footoccitanie.fr
-
-
-
                 </p>
 
-
-                 </div>
+                <div id="map"></div>
+            </div>
             <div class="col-md-6">
                 <h4>Liens utiles</h4>
                 <ul class="list-unstyled">
                     <li class="nav-item"> <a target="_blank" class="nav-link" href="https://ariegefoot.fff.fr/"><img class="logo" src="../assets/district_ariege.jpg" alt="Ligue d'Occitanie"/> District de l'Ariège</a></li>
-                    <li class="nav-item"><a target="_blank" class="nav-link" href="https://occitanie.fff.fr/"><img class="logo" src="../assets/Ligue_de_Football_d'Occitanie.svg" alt="Ligue d'Occitanie"/> Ligue d'occitanie</a></li>
-                    <li class="nav-item"><a target="_blank" class="nav-link" href="https://lespujols.fr/"><img class="logo" src="../assets/mairie_pujol.png" alt="Ligue d'Occitanie"/>Mairie des Pujols</a></li>
-                    <li class="nav-item"><a target="_blank" class="nav-link" href="http://www.mairie-coussa.fr/"><img class="logo" src="../assets/mairie_coussa.png" alt="Ligue d'Occitanie"/>Mairie de Coussa</a></li>
-
+                    <li class="nav-item"><a target="_blank" class="nav-link" href="https://occitanie.fff.fr/"><img class="logo" src="../assets/Ligue_de_Football_d'Occitanie.svg" alt="Ligue d'Occitanie"/> Ligue d'Occitanie</a></li>
+                    <li class="nav-item"><a target="_blank" class="nav-link" href="https://lespujols.fr/"><img class="logo" src="../assets/mairie_pujol.png" alt="Ligue d'Occitanie"/> Mairie des Pujols</a></li>
+                    <li class="nav-item"><a target="_blank" class="nav-link" href="http://www.mairie-coussa.fr/"><img class="logo" src="../assets/mairie_coussa.png" alt="Ligue d'Occitanie"/> Mairie de Coussa</a></li>
                 </ul>
             </div>
         </div>
     </div>
 </footer>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
 
 </body>

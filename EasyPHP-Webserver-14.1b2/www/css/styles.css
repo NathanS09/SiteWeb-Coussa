@@ -78,6 +78,15 @@ footer {
 
 /* Header  */
 
+/* Footer */
+
+#map {
+    width: 100%;
+    height: 200px;
+}
+
+/* Footer  */
+
 /* Slider */
 
 .custom-slider { display: none; }
