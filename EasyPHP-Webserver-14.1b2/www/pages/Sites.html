@@ -5,6 +5,7 @@
   <link rel="stylesheet" href="../css/bootstrap/bootstrap.css">
   <link rel="stylesheet" href="../css/sites.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
   <title>Sites</title>
 </head>
 <body>
@@ -15,12 +16,23 @@
   <div class="row">
     <div class="col-md-6 card">
       <h2>Site de Coussa</h2>
-      <p>Informations sur le premier site du club de football.</p>
+      <p>
+        Adresse : Chem. de la Prade, 09120 Coussa <br>
+        Ville : Coussa
+
+      </p>
+
+        <div id="mapcoussa" style="height: 500px;"></div>
 
     </div>
     <div class="col-md-6 card">
       <h2>Site des Pujols</h2>
-      <p>Informations sur le deuxième site du club de football.</p>
+      <p>
+        Adresse : 1 Chemin du Payroulie, 09100 Les Pujols <br>
+        Ville : Les Pujols
+      </p>
+
+        <div id="mappujols" style="height: 500px;"></div>
 
     </div>
   </div>
@@ -31,6 +43,29 @@
 
 <script src="../js/jquery/jquery-3.7.0.min.js"></script>
 <script src="../js/bootstrap/bootstrap.js"></script>
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script>
+  // Script de création de la carte
+  var map = L.map('mapcoussa').setView([43.06424968508894, 1.6759822738375485], 13);
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 18,
+  }).addTo(map);
+
+  L.marker([43.06424968508894, 1.6759822738375485]).addTo(map)
+          .bindPopup('Stade de Coussa')
+          .openPopup();
+
+  var map = L.map('mappujols').setView([43.08707185117359, 1.7223672719910992], 13);
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 18,
+  }).addTo(map);
+
+  L.marker([43.08707185117359, 1.7223672719910992]).addTo(map)
+          .bindPopup('Stade des Pujols')
+          .openPopup();
+</script>
 <script src="../js/loading.js"></script>
 
 </body>

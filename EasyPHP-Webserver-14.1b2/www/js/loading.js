@@ -1,4 +1,9 @@
 
+
+var script = document.createElement('script');
+script.src = 'https://unpkg.com/leaflet/dist/leaflet.js';
+document.head.appendChild(script);
+
 loadFooter();
 loadHeader();
 function loadFooter() {
@@ -20,4 +25,3 @@ function loadHeader() {
         })
         .catch(error => console.log(error));
 }
-
