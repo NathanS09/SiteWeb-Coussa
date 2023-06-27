@@ -4,7 +4,7 @@
     text-align: center;
     border: 1px solid gray;
     margin-bottom: 20px;
-    height: 360px;
+    min-height: 360px;
 }
 
 .position h4 {
@@ -25,15 +25,44 @@
     height: 225px;
 }
 
-.card{
+.card {
     margin-top: 5px;
-}
-
-.borderrighte {
-    border-right: 1px solid gray;
-    margin-right: 150px;
 }
 
 .sizemin {
     font-size: 12px;
 }
+
+.image-container {
+    position: relative;
+}
+
+.image-container::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 1px;
+    background-color: gray;
+}
+
+.image-container2 {
+    position: relative;
+}
+
+@media (max-width: 760px) {
+    .border-bottom-sm {
+        border-bottom: 1px solid gray;
+        margin-bottom: 5px;
+        padding-top: 5px;
+    }
+}
+
+@media (min-width: 761px) {
+    .border-bottom-sm {
+        border-right: 1px solid gray;
+        margin-bottom: 5px;
+        padding-top: 5px;
+    }
+    }
