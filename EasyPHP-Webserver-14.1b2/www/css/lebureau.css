@@ -20,3 +20,20 @@
 .white {
     background-color: #FFFFFF;
 }
+
+.imgportrait {
+    height: 225px;
+}
+
+.card{
+    margin-top: 5px;
+}
+
+.borderrighte {
+    border-right: 1px solid gray;
+    margin-right: 150px;
+}
+
+.sizemin {
+    font-size: 12px;
+}
