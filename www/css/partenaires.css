@@ -1,0 +1,73 @@
+#partners-slider {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+/* Styles pour le conteneur du slider */
+.container {
+    max-width: 800px; /* Largeur maximale du conteneur */
+    margin: 0 auto; /* Centrer le conteneur horizontalement */
+}
+
+/* Styles pour chaque slide */
+#partners-slider .slick-slide {
+    margin: 0 10px; /* Marge horizontale entre les slides */
+}
+
+/* Styles pour les images dans les slides */
+#partners-slider img {
+    width: 100%; /* Largeur des images à 100% */
+    height: auto; /* Hauteur automatique pour conserver les proportions */
+}
+
+/* Styles pour les flèches de navigation */
+#partners-slider .slick-prev,
+#partners-slider .slick-next {
+    background-color: #ffffff; /* Couleur de fond des flèches */
+    color: #000000; /* Couleur du texte des flèches */
+    font-size: 24px; /* Taille de la police des flèches */
+    line-height: 1; /* Hauteur de ligne pour centrer verticalement le texte */
+    width: 40px; /* Largeur des flèches */
+    height: 40px; /* Hauteur des flèches */
+    border-radius: 50%; /* Bordure arrondie des flèches */
+}
+
+/* Styles pour les flèches de navigation lors du survol */
+#partners-slider .slick-prev:hover,
+#partners-slider .slick-next:hover {
+    background-color: #eaeaea; /* Couleur de fond lors du survol */
+}
+
+.partners-slider-wrapper {
+    position: relative;
+
+}
+
+body {
+    background-image: url("../assets/fond2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.slick-prev,
+.slick-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+    color: #fff;
+    font-size: 24px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px;
+    cursor: pointer;
+}
+
+.slick-prev {
+    left: 10px;
+}
+
+.slick-next {
+    right: 10px;
+}
