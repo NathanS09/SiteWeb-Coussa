@@ -42,9 +42,11 @@ namespace WebApp
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+               endpoints.MapGet("/", context =>
+                        {
+                            context.Response.Redirect("/pages/index.html");
+                            return Task.CompletedTask;
+                        });
             });
         }
     }

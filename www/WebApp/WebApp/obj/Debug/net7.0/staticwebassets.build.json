@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MOqKN4WDYpptdfCy5O/VXjTituUeLkcdDD+bbrXkZ4U=",
+  "Hash": "kqs+mKjfqtcdJtQEAPy/PkcJMUJxZG3Pz035I/AxAB8=",
   "Source": "WebApp",
   "BasePath": "_content/WebApp",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "WebApp\\wwwroot",
+      "Name": "WebApp/wwwroot",
       "Source": "WebApp",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\WebApp.styles.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/obj/Debug/net7.0/scopedcss/bundle/WebApp.styles.css",
       "SourceId": "WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/WebApp",
       "RelativePath": "WebApp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\WebApp.styles.css"
+      "OriginalItemSpec": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/obj/Debug/net7.0/scopedcss/bundle/WebApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/obj/Debug/net7.0/scopedcss/projectbundle/WebApp.bundle.scp.css",
       "SourceId": "WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/WebApp",
       "RelativePath": "WebApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css"
+      "OriginalItemSpec": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/obj/Debug/net7.0/scopedcss/projectbundle/WebApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\bandeau 1 FCCH.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/bandeau 1 FCCH.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/bandeau 1 FCCH.jpg",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\bandeau 1 FCCH.jpg"
+      "OriginalItemSpec": "wwwroot/assets/bandeau 1 FCCH.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\district_ariege.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/district_ariege.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/district_ariege.jpg",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\district_ariege.jpg"
+      "OriginalItemSpec": "wwwroot/assets/district_ariege.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\Coussa.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/equipes/Coussa.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/equipes/Coussa.jpg",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\equipes\\Coussa.jpg"
+      "OriginalItemSpec": "wwwroot/assets/equipes/Coussa.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\Pujols.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/equipes/Pujols.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/equipes/Pujols.jpg",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\equipes\\Pujols.jpg"
+      "OriginalItemSpec": "wwwroot/assets/equipes/Pujols.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\Pujols2.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/equipes/Pujols2.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/equipes/Pujols2.jpg",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\equipes\\Pujols2.jpg"
+      "OriginalItemSpec": "wwwroot/assets/equipes/Pujols2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\Senior D1.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/equipes/Senior D1.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/equipes/Senior D1.jpg",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\equipes\\Senior D1.jpg"
+      "OriginalItemSpec": "wwwroot/assets/equipes/Senior D1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U12.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/equipes/U12.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/equipes/U12.jpg",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\equipes\\U12.jpg"
+      "OriginalItemSpec": "wwwroot/assets/equipes/U12.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U14.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/equipes/U14.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/equipes/U14.jpg",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\equipes\\U14.jpg"
+      "OriginalItemSpec": "wwwroot/assets/equipes/U14.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U7U6.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/equipes/U7U6.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/equipes/U7U6.jpg",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\equipes\\U7U6.jpg"
+      "OriginalItemSpec": "wwwroot/assets/equipes/U7U6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U9U8.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/equipes/U9U8.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/equipes/U9U8.jpg",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\equipes\\U9U8.jpg"
+      "OriginalItemSpec": "wwwroot/assets/equipes/U9U8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\fond1.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/fond1.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/fond1.jpg",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\fond1.jpg"
+      "OriginalItemSpec": "wwwroot/assets/fond1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\fond2.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/fond2.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/fond2.jpg",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\fond2.jpg"
+      "OriginalItemSpec": "wwwroot/assets/fond2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\fond3.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/fond3.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/fond3.jpg",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\fond3.jpg"
+      "OriginalItemSpec": "wwwroot/assets/fond3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\anais.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/anais.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/anais.png",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\anais.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/anais.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\annick.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/annick.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/annick.jpg",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\annick.jpg"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/annick.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\arnaud.jpeg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/arnaud.jpeg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/arnaud.jpeg",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\arnaud.jpeg"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/arnaud.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\cedric.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/cedric.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/cedric.png",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\cedric.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/cedric.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\david.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/david.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/david.png",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\david.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/david.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\default.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/default.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/default.png",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\default.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/default.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\florian.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/florian.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/florian.png",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\florian.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/florian.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\gilles.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/gilles.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/gilles.png",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\gilles.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/gilles.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\image9.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/image9.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/image9.png",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\image9.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/image9.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\julien.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/julien.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/julien.png",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\julien.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/julien.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\loic.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/loic.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/loic.png",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\loic.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/loic.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\loicraposo.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/loicraposo.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/loicraposo.png",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\loicraposo.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/loicraposo.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\maxence.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/maxence.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/maxence.png",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\maxence.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/maxence.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\miloud.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/miloud.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/miloud.png",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\miloud.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/miloud.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\nicolas.jpeg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/nicolas.jpeg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/nicolas.jpeg",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\nicolas.jpeg"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/nicolas.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\romain.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/romain.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/romain.png",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\romain.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/romain.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\sebastien.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/sebastien.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/sebastien.png",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\sebastien.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/sebastien.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\veronique.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/veronique.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/veronique.jpg",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\veronique.jpg"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/veronique.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\vincent.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/vincent.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/vincent.png",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\vincent.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/vincent.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\william.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/william.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/william.png",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\william.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/william.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\yannis.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/lebureau/yannis.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/lebureau/yannis.png",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\lebureau\\yannis.png"
+      "OriginalItemSpec": "wwwroot/assets/lebureau/yannis.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\Ligue_de_Football_d'Occitanie.svg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/Ligue_de_Football_d'Occitanie.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/Ligue_de_Football_d'Occitanie.svg",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\Ligue_de_Football_d'Occitanie.svg"
+      "OriginalItemSpec": "wwwroot/assets/Ligue_de_Football_d'Occitanie.svg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\logo.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/logo.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/logo.jpg",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\logo.jpg"
+      "OriginalItemSpec": "wwwroot/assets/logo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\mairie_coussa.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/mairie_coussa.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/mairie_coussa.png",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\mairie_coussa.png"
+      "OriginalItemSpec": "wwwroot/assets/mairie_coussa.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\mairie_pujol.png",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/mairie_pujol.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/mairie_pujol.png",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\mairie_pujol.png"
+      "OriginalItemSpec": "wwwroot/assets/mairie_pujol.png"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\39-GPFO21-ESPACE EMERAUDE.pdf",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/slider/partenaires/39-GPFO21-ESPACE EMERAUDE.pdf",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/slider/partenaires/39-GPFO21-ESPACE EMERAUDE.pdf",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\slider\\partenaires\\39-GPFO21-ESPACE EMERAUDE.pdf"
+      "OriginalItemSpec": "wwwroot/assets/slider/partenaires/39-GPFO21-ESPACE EMERAUDE.pdf"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\BVSCOP ENCART 2021.pdf",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/slider/partenaires/BVSCOP ENCART 2021.pdf",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/slider/partenaires/BVSCOP ENCART 2021.pdf",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\slider\\partenaires\\BVSCOP ENCART 2021.pdf"
+      "OriginalItemSpec": "wwwroot/assets/slider/partenaires/BVSCOP ENCART 2021.pdf"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\DESAMIANTAGE PEDOUSSAUT 1.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/slider/partenaires/DESAMIANTAGE PEDOUSSAUT 1.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/slider/partenaires/DESAMIANTAGE PEDOUSSAUT 1.jpg",
       "AssetKind": "All",
@@ -745,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\slider\\partenaires\\DESAMIANTAGE PEDOUSSAUT 1.jpg"
+      "OriginalItemSpec": "wwwroot/assets/slider/partenaires/DESAMIANTAGE PEDOUSSAUT 1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\GRAIN DE BEAUTE VERNIOLLE.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/slider/partenaires/GRAIN DE BEAUTE VERNIOLLE.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/slider/partenaires/GRAIN DE BEAUTE VERNIOLLE.jpg",
       "AssetKind": "All",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\slider\\partenaires\\GRAIN DE BEAUTE VERNIOLLE.jpg"
+      "OriginalItemSpec": "wwwroot/assets/slider/partenaires/GRAIN DE BEAUTE VERNIOLLE.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\iad otta.tif",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/slider/partenaires/iad otta.tif",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/slider/partenaires/iad otta.tif",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\slider\\partenaires\\iad otta.tif"
+      "OriginalItemSpec": "wwwroot/assets/slider/partenaires/iad otta.tif"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\LN COIFF.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/slider/partenaires/LN COIFF.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/slider/partenaires/LN COIFF.jpg",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\slider\\partenaires\\LN COIFF.jpg"
+      "OriginalItemSpec": "wwwroot/assets/slider/partenaires/LN COIFF.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\Logo CBS.pdf",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/slider/partenaires/Logo CBS.pdf",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/slider/partenaires/Logo CBS.pdf",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\slider\\partenaires\\Logo CBS.pdf"
+      "OriginalItemSpec": "wwwroot/assets/slider/partenaires/Logo CBS.pdf"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\MR.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/slider/partenaires/MR.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/slider/partenaires/MR.jpg",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\slider\\partenaires\\MR.jpg"
+      "OriginalItemSpec": "wwwroot/assets/slider/partenaires/MR.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\pf_jerome_logo.pdf",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/slider/partenaires/pf_jerome_logo.pdf",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/slider/partenaires/pf_jerome_logo.pdf",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\slider\\partenaires\\pf_jerome_logo.pdf"
+      "OriginalItemSpec": "wwwroot/assets/slider/partenaires/pf_jerome_logo.pdf"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\PUBS CALENDRIERS 3 2021 2022.pdf",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/slider/partenaires/PUBS CALENDRIERS 3 2021 2022.pdf",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/slider/partenaires/PUBS CALENDRIERS 3 2021 2022.pdf",
       "AssetKind": "All",
@@ -864,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\slider\\partenaires\\PUBS CALENDRIERS 3 2021 2022.pdf"
+      "OriginalItemSpec": "wwwroot/assets/slider/partenaires/PUBS CALENDRIERS 3 2021 2022.pdf"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\pyr loc.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/slider/partenaires/pyr loc.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/slider/partenaires/pyr loc.jpg",
       "AssetKind": "All",
@@ -881,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\slider\\partenaires\\pyr loc.jpg"
+      "OriginalItemSpec": "wwwroot/assets/slider/partenaires/pyr loc.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\RAUZY.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/slider/partenaires/RAUZY.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/slider/partenaires/RAUZY.jpg",
       "AssetKind": "All",
@@ -898,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\slider\\partenaires\\RAUZY.jpg"
+      "OriginalItemSpec": "wwwroot/assets/slider/partenaires/RAUZY.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\slide1.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/slider/slide1.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/slider/slide1.jpg",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\slider\\slide1.jpg"
+      "OriginalItemSpec": "wwwroot/assets/slider/slide1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\slide2.jpg",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/assets/slider/slide2.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "assets/slider/slide2.jpg",
       "AssetKind": "All",
@@ -932,149 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\slider\\slide2.jpg"
+      "OriginalItemSpec": "wwwroot/assets/slider/slide2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-grid.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "css/bootstrap/bootstrap.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.css"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.css.map",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "css/bootstrap/bootstrap.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "css/bootstrap/bootstrap.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "css/bootstrap/bootstrap.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.rtl.css",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "css/bootstrap/bootstrap.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.rtl.css.map",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "css/bootstrap/bootstrap.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.rtl.min.css",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "css/bootstrap/bootstrap.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.rtl.min.css.map",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "css/bootstrap/bootstrap.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1085,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-grid.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1102,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.min.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-grid.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1119,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.min.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-grid.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1136,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-grid.rtl.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1153,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-grid.rtl.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1170,13 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.min.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-grid.rtl.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1187,13 +1051,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-grid.rtl.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1204,13 +1068,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-reboot.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1221,13 +1085,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-reboot.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1238,13 +1102,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.min.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-reboot.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1255,13 +1119,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.min.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-reboot.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1272,13 +1136,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-reboot.rtl.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1289,13 +1153,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-reboot.rtl.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1306,13 +1170,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.min.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-reboot.rtl.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1323,13 +1187,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1340,13 +1204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-utilities.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1357,13 +1221,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-utilities.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1374,13 +1238,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.min.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-utilities.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1391,13 +1255,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.min.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-utilities.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1408,13 +1272,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-utilities.rtl.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1425,13 +1289,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-utilities.rtl.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1442,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.min.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-utilities.rtl.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1459,13 +1323,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/bootstrap/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1476,13 +1340,149 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\contact.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "css/bootstrap/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.css"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "css/bootstrap/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.css.map"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "css/bootstrap/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "css/bootstrap/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap.rtl.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "css/bootstrap/bootstrap.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.rtl.css"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap.rtl.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "css/bootstrap/bootstrap.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap.rtl.min.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "css/bootstrap/bootstrap.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/bootstrap/bootstrap.rtl.min.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "css/bootstrap/bootstrap.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/contact.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/contact.css",
       "AssetKind": "All",
@@ -1493,13 +1493,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\contact.css"
+      "OriginalItemSpec": "wwwroot/css/contact.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\historique.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/historique.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/historique.css",
       "AssetKind": "All",
@@ -1510,13 +1510,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\historique.css"
+      "OriginalItemSpec": "wwwroot/css/historique.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\lebureau.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/lebureau.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/lebureau.css",
       "AssetKind": "All",
@@ -1527,13 +1527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\lebureau.css"
+      "OriginalItemSpec": "wwwroot/css/lebureau.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\partenaires.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/partenaires.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/partenaires.css",
       "AssetKind": "All",
@@ -1544,13 +1544,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\partenaires.css"
+      "OriginalItemSpec": "wwwroot/css/partenaires.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\site.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/site.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1561,13 +1561,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\sites.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/sites.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/sites.css",
       "AssetKind": "All",
@@ -1578,13 +1578,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\sites.css"
+      "OriginalItemSpec": "wwwroot/css/sites.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\slick\\slick.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/slick/slick.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/slick/slick.css",
       "AssetKind": "All",
@@ -1595,13 +1595,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\slick\\slick.css"
+      "OriginalItemSpec": "wwwroot/css/slick/slick.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\styles.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/css/styles.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -1612,13 +1612,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+      "OriginalItemSpec": "wwwroot/css/styles.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\favicon.ico",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/favicon.ico",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1629,13 +1629,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.bundle.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/bootstrap/bootstrap.bundle.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/bootstrap/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1646,13 +1646,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap\\bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot/js/bootstrap/bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.bundle.js.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/bootstrap/bootstrap.bundle.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/bootstrap/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1663,13 +1663,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot/js/bootstrap/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.bundle.min.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/bootstrap/bootstrap.bundle.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/bootstrap/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1680,13 +1680,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot/js/bootstrap/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.bundle.min.js.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/bootstrap/bootstrap.bundle.min.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/bootstrap/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1697,13 +1697,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot/js/bootstrap/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.esm.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/bootstrap/bootstrap.esm.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/bootstrap/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1714,13 +1714,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap\\bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot/js/bootstrap/bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.esm.js.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/bootstrap/bootstrap.esm.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/bootstrap/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1731,13 +1731,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot/js/bootstrap/bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.esm.min.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/bootstrap/bootstrap.esm.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/bootstrap/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1748,13 +1748,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot/js/bootstrap/bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.esm.min.js.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/bootstrap/bootstrap.esm.min.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/bootstrap/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1765,13 +1765,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot/js/bootstrap/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/bootstrap/bootstrap.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/bootstrap/bootstrap.js",
       "AssetKind": "All",
@@ -1782,13 +1782,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap\\bootstrap.js"
+      "OriginalItemSpec": "wwwroot/js/bootstrap/bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.js.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/bootstrap/bootstrap.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/bootstrap/bootstrap.js.map",
       "AssetKind": "All",
@@ -1799,13 +1799,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap\\bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot/js/bootstrap/bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.min.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/bootstrap/bootstrap.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/bootstrap/bootstrap.min.js",
       "AssetKind": "All",
@@ -1816,13 +1816,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot/js/bootstrap/bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.min.js.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/bootstrap/bootstrap.min.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/bootstrap/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1833,13 +1833,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap\\bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot/js/bootstrap/bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\jquery\\jquery-3.7.0.min.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/jquery/jquery-3.7.0.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/jquery/jquery-3.7.0.min.js",
       "AssetKind": "All",
@@ -1850,13 +1850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\jquery\\jquery-3.7.0.min.js"
+      "OriginalItemSpec": "wwwroot/js/jquery/jquery-3.7.0.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\loading.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/loading.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/loading.js",
       "AssetKind": "All",
@@ -1867,13 +1867,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\loading.js"
+      "OriginalItemSpec": "wwwroot/js/loading.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\script.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/script.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -1884,13 +1884,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\script.js"
+      "OriginalItemSpec": "wwwroot/js/script.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\site.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/site.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1901,13 +1901,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\slick\\slick.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/slick/slick.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/slick/slick.js",
       "AssetKind": "All",
@@ -1918,13 +1918,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\slick\\slick.js"
+      "OriginalItemSpec": "wwwroot/js/slick/slick.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\slick\\slick.min.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/js/slick/slick.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/slick/slick.min.js",
       "AssetKind": "All",
@@ -1935,149 +1935,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\slick\\slick.min.js"
+      "OriginalItemSpec": "wwwroot/js/slick/slick.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2088,13 +1952,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2105,13 +1969,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2122,13 +1986,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2139,13 +2003,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2156,13 +2020,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2173,13 +2037,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2190,13 +2054,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2207,13 +2071,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2224,13 +2088,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2241,13 +2105,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2258,13 +2122,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2275,13 +2139,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2292,13 +2156,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2309,13 +2173,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2326,13 +2190,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2343,13 +2207,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2360,13 +2224,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2377,13 +2241,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2394,13 +2258,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2411,13 +2275,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2428,13 +2292,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2445,13 +2309,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2462,13 +2326,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2479,13 +2343,149 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2496,13 +2496,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2513,13 +2513,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2530,13 +2530,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2547,13 +2547,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2564,13 +2564,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2581,13 +2581,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2598,13 +2598,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2615,13 +2615,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2632,13 +2632,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2649,13 +2649,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2666,13 +2666,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2683,13 +2683,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2700,166 +2700,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/jquery/dist/jquery.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/jquery/dist/jquery.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/jquery/dist/jquery.min.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/jquery/LICENSE.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "lib/jquery-validation/LICENSE.md",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2870,13 +2717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2887,13 +2734,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2904,13 +2751,166 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\contact.html",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/jquery-validation/LICENSE.md",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/jquery/dist/jquery.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery/dist/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/jquery/dist/jquery.min.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/jquery/dist/jquery.min.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/lib/jquery/LICENSE.txt",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/pages/contact.html",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "pages/contact.html",
       "AssetKind": "All",
@@ -2921,13 +2921,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\pages\\contact.html"
+      "OriginalItemSpec": "wwwroot/pages/contact.html"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\Equipes.html",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/pages/Equipes.html",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "pages/Equipes.html",
       "AssetKind": "All",
@@ -2938,13 +2938,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\pages\\Equipes.html"
+      "OriginalItemSpec": "wwwroot/pages/Equipes.html"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\Historique.html",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/pages/Historique.html",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "pages/Historique.html",
       "AssetKind": "All",
@@ -2955,13 +2955,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\pages\\Historique.html"
+      "OriginalItemSpec": "wwwroot/pages/Historique.html"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\index.html",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/pages/index.html",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "pages/index.html",
       "AssetKind": "All",
@@ -2972,13 +2972,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\pages\\index.html"
+      "OriginalItemSpec": "wwwroot/pages/index.html"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\lebureau.html",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/pages/lebureau.html",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "pages/lebureau.html",
       "AssetKind": "All",
@@ -2989,13 +2989,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\pages\\lebureau.html"
+      "OriginalItemSpec": "wwwroot/pages/lebureau.html"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\Partenaires.html",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/pages/Partenaires.html",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "pages/Partenaires.html",
       "AssetKind": "All",
@@ -3006,13 +3006,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\pages\\Partenaires.html"
+      "OriginalItemSpec": "wwwroot/pages/Partenaires.html"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\Sites.html",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/pages/Sites.html",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "pages/Sites.html",
       "AssetKind": "All",
@@ -3023,13 +3023,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\pages\\Sites.html"
+      "OriginalItemSpec": "wwwroot/pages/Sites.html"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\templates\\footer.html",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/templates/footer.html",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "templates/footer.html",
       "AssetKind": "All",
@@ -3040,13 +3040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\templates\\footer.html"
+      "OriginalItemSpec": "wwwroot/templates/footer.html"
     },
     {
-      "Identity": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\templates\\header.html",
+      "Identity": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/templates/header.html",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "templates/header.html",
       "AssetKind": "All",
@@ -3057,7 +3057,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\templates\\header.html"
+      "OriginalItemSpec": "wwwroot/templates/header.html"
     }
   ]
 }
