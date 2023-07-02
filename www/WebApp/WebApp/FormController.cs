@@ -3,6 +3,31 @@ using WebApp.Services;
 
 namespace WebApp { 
 
+
+        public class PostsController : Controller
+    {
+        private readonly FacebookApiClient _facebookApiClient;
+
+        public PostsController()
+        {
+            _facebookApiClient = new FacebookApiClient();
+        }
+
+        public async Task<IActionResult> Index()
+        {
+            string pageId = "YOUR_PAGE_ID";
+            List<FacebookPost> posts = await _facebookApiClient.GetLatestPosts(pageId);
+        
+            foreach (var post in posts)
+            {
+                Console.WriteLine(post.Message);
+            }
+
+            return View(posts);
+        }
+    }
+
+
     public class ContactData
 {
         public string Nom { get; set; }

@@ -63,7 +63,15 @@
 <!-- Div pour lactualité du club -->
 <div class="news-container">
     <h2>Actualités</h2>
-    <div id="news-feed"></div>
+    @foreach (var post in Model)
+        {
+            <div class="news-item">
+                <div class="news-item">
+                    <div class="post-message">@post.Message</div>
+                    <div class="post-date">@post.CreatedTime.ToShortDateString()</div>
+                </div>
+            </div>
+        }
 
 
 </div>
