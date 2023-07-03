@@ -60,3 +60,5 @@ C:/Users/Nathan/Documents/git/SiteWeb-Coussa/www/WebApp/WebApp/obj/Debug/net7.0/
 /media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/obj/Debug/net7.0/WebApp.pdb
 /media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/obj/Debug/net7.0/WebApp.genruntimeconfig.cache
 /media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/obj/Debug/net7.0/ref/WebApp.dll
+/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/obj/Debug/net7.0/WebApp.csproj.CopyComplete

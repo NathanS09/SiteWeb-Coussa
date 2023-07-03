@@ -20,11 +20,13 @@ namespace WebApp
         {
             services.Configure<EmailSettings>(Configuration.GetSection("EmailSettings"));
             services.AddTransient<IEmailService, EmailService>();
+            services.AddScoped<FacebookApiClient>();
+            services.AddScoped<PostsController>();
             services.AddMvc();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
-        {
+{
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -40,13 +42,20 @@ namespace WebApp
 
             app.UseRouting();
 
+            /*app.Use(async (context, next) =>
+            {
+                var postsController = context.RequestServices.GetRequiredService<PostsController>();
+                await postsController.Index();
+                await next.Invoke();
+            });*/
+
             app.UseEndpoints(endpoints =>
             {
-               endpoints.MapGet("/", context =>
-                        {
-                            context.Response.Redirect("/pages/index.html");
-                            return Task.CompletedTask;
-                        });
+                endpoints.MapGet("/", context =>
+                {
+                    context.Response.Redirect("/pages/index.html");
+                    return Task.CompletedTask;
+                });
             });
         }
     }
