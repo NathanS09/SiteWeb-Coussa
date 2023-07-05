@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/WebApp.csproj": {}
+    "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/WebApp.csproj": {
+    "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/WebApp.csproj",
-        "packagesPath": "/home/nathan/.nuget/packages/",
-        "outputPath": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/obj/",
+        "projectPath": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/nathan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,12 +40,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[12.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -62,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

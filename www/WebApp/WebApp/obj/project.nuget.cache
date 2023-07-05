@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ychZiOaQBixAehKN/95Z+t3ovs9jPHOU545f4mFTq//od3MP3BPEGP/DaaW4Mlf+maP/pgw+SRfZmRCtint2Yg==",
+  "dgSpecHash": "+fVIcCerxpw7i+LRgWjrROS/YfxYJdXNsZ/n5XgKHOdLQ199RFv2QISCBGU14AgAJfYWzksq5bds4uEf1LAFfw==",
   "success": true,
-  "projectFilePath": "/media/nathan/Data/gitlab/SiteWeb-Coussa/www/WebApp/WebApp/WebApp.csproj",
-  "expectedPackageFiles": [
-    "/home/nathan/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\WebApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

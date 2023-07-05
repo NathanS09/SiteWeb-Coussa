@@ -20,7 +20,6 @@ namespace WebApp
         {
             services.Configure<EmailSettings>(Configuration.GetSection("EmailSettings"));
             services.AddTransient<IEmailService, EmailService>();
-            services.AddScoped<FacebookApiClient>();
             services.AddScoped<PostsController>();
             services.AddMvc();
         }
@@ -37,12 +36,15 @@ namespace WebApp
             {
                 app.UseExceptionHandler("/Home/Error");
                 app.UseHsts();
-                app.UseHttpsRedirection();
+               
             }
 
+            //app.UseHttpsRedirection();
             app.UseStaticFiles();
 
             app.UseRouting();
+            app.UseAuthorization();
+
 
             /*app.Use(async (context, next) =>
             {

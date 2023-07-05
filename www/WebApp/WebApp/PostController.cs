@@ -8,20 +8,13 @@ namespace WebApp
 {
 public class PostsController : Controller
     {
-        private readonly FacebookApiClient _facebookApiClient;
-
-
-        public PostsController(FacebookApiClient facebookApiClient)
-        {
-            _facebookApiClient = facebookApiClient;
-        }
-
         public async Task<IActionResult> Index()
         {
-            Console.WriteLine("avant");
-            string pageId = "355298635755665";
-            List<FacebookPost> posts = await _facebookApiClient.GetLatestPosts(pageId);
-            Console.WriteLine("fait " + posts.Count);
+
+            var pageUrl = "https://www.facebook.com/fc.c.hers";
+            var scraper = new FacebookPageScraper();
+            var posts = await scraper.GetLatestPosts(pageUrl, 3);
+                Console.WriteLine("avant");
 
             foreach (var post in posts)
             {
