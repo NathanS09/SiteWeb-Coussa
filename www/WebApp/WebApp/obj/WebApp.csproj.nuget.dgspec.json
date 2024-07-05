@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\WebApp.csproj",
-        "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\obj\\",
+        "projectPath": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\ns027\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ns027\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

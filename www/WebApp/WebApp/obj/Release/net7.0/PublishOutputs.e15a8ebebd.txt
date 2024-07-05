@@ -1,0 +1,7 @@
+C:\Users\ns027\OneDrive\Documents\Git\SiteWeb-Coussa\www\WebApp\WebApp\bin\Release\net7.0\publish\WebApp.exe
+C:\Users\ns027\OneDrive\Documents\Git\SiteWeb-Coussa\www\WebApp\WebApp\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\ns027\OneDrive\Documents\Git\SiteWeb-Coussa\www\WebApp\WebApp\bin\Release\net7.0\publish\appsettings.json
+C:\Users\ns027\OneDrive\Documents\Git\SiteWeb-Coussa\www\WebApp\WebApp\bin\Release\net7.0\publish\WebApp.dll
+C:\Users\ns027\OneDrive\Documents\Git\SiteWeb-Coussa\www\WebApp\WebApp\bin\Release\net7.0\publish\WebApp.deps.json
+C:\Users\ns027\OneDrive\Documents\Git\SiteWeb-Coussa\www\WebApp\WebApp\bin\Release\net7.0\publish\WebApp.runtimeconfig.json
+C:\Users\ns027\OneDrive\Documents\Git\SiteWeb-Coussa\www\WebApp\WebApp\bin\Release\net7.0\publish\WebApp.pdb

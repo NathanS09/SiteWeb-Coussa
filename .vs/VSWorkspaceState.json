@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\www",
+    "\\www\\WebApp",
+    "\\www\\WebApp\\WebApp",
+    "\\www\\WebApp\\WebApp\\wwwroot",
+    "\\www\\WebApp\\WebApp\\wwwroot\\css",
+    "\\www\\WebApp\\WebApp\\wwwroot\\pages",
+    "\\www\\WebApp\\WebApp\\wwwroot\\templates"
+  ],
+  "SelectedNode": "\\www\\WebApp\\WebApp\\wwwroot\\templates\\header.html",
+  "PreviewInSolutionExplorer": false
+}

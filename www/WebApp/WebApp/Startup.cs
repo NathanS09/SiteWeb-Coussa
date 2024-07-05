@@ -53,14 +53,17 @@ namespace WebApp
                 await next.Invoke();
             });*/
 
-            app.UseEndpoints(endpoints =>
+            app.Use(async (context, next) =>
             {
-                endpoints.MapGet("/", context =>
+                if (context.Request.Path == "/")
                 {
                     context.Response.Redirect("/pages/index.html");
-                    return Task.CompletedTask;
-                });
+                    return;
+                }
+
+                await next.Invoke();
             });
+
         }
     }
 }

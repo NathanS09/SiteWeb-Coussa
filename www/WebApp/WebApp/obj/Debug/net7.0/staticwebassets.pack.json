@@ -1,715 +1,1063 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\WebApp.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\Ligue_de_Football_d'Occitanie.svg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\Ligue_de_Football_d'Occitanie.svg",
       "PackagePath": "staticwebassets\\assets\\Ligue_de_Football_d'Occitanie.svg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\bandeau 1 FCCH.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\Ligue_de_Football_d'Occitanie.webp",
+      "PackagePath": "staticwebassets\\assets\\Ligue_de_Football_d'Occitanie.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\bandeau 1 FCCH.jpg",
       "PackagePath": "staticwebassets\\assets\\bandeau 1 FCCH.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\district_ariege.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\bandeau 1 FCCH.webp",
+      "PackagePath": "staticwebassets\\assets\\bandeau 1 FCCH.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\district_ariege.jpg",
       "PackagePath": "staticwebassets\\assets\\district_ariege.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\Coussa.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\district_ariege.webp",
+      "PackagePath": "staticwebassets\\assets\\district_ariege.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\Coussa.jpg",
       "PackagePath": "staticwebassets\\assets\\equipes\\Coussa.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\Pujols.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\D1.jpg",
+      "PackagePath": "staticwebassets\\assets\\equipes\\D1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\D3.jpg",
+      "PackagePath": "staticwebassets\\assets\\equipes\\D3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\D3.webp",
+      "PackagePath": "staticwebassets\\assets\\equipes\\D3.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\Pujols.jpg",
       "PackagePath": "staticwebassets\\assets\\equipes\\Pujols.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\Pujols2.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\Pujols2.jpg",
       "PackagePath": "staticwebassets\\assets\\equipes\\Pujols2.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\Senior D1.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\Senior D1.jpg",
       "PackagePath": "staticwebassets\\assets\\equipes\\Senior D1.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U12.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U10U11.JPG",
+      "PackagePath": "staticwebassets\\assets\\equipes\\U10U11.JPG"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U12.jpg",
       "PackagePath": "staticwebassets\\assets\\equipes\\U12.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U14.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U13.jpg",
+      "PackagePath": "staticwebassets\\assets\\equipes\\U13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U14.jpg",
       "PackagePath": "staticwebassets\\assets\\equipes\\U14.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U7U6.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U14.webp",
+      "PackagePath": "staticwebassets\\assets\\equipes\\U14.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U7.jpg",
+      "PackagePath": "staticwebassets\\assets\\equipes\\U7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U7.webp",
+      "PackagePath": "staticwebassets\\assets\\equipes\\U7.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U7U6.jpg",
       "PackagePath": "staticwebassets\\assets\\equipes\\U7U6.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U9U8.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\U9U8.jpg",
       "PackagePath": "staticwebassets\\assets\\equipes\\U9U8.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\fond1.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\coussa.webp",
+      "PackagePath": "staticwebassets\\assets\\equipes\\coussa.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\d1.webp",
+      "PackagePath": "staticwebassets\\assets\\equipes\\d1.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\pujols.webp",
+      "PackagePath": "staticwebassets\\assets\\equipes\\pujols.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\pujols2.webp",
+      "PackagePath": "staticwebassets\\assets\\equipes\\pujols2.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\senior-d1.webp",
+      "PackagePath": "staticwebassets\\assets\\equipes\\senior-d1.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\u10u11.webp",
+      "PackagePath": "staticwebassets\\assets\\equipes\\u10u11.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\u10u11_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\equipes\\u10u11_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\u10u11_2.webp",
+      "PackagePath": "staticwebassets\\assets\\equipes\\u10u11_2.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\u12.webp",
+      "PackagePath": "staticwebassets\\assets\\equipes\\u12.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\u13.webp",
+      "PackagePath": "staticwebassets\\assets\\equipes\\u13.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\u7u6.webp",
+      "PackagePath": "staticwebassets\\assets\\equipes\\u7u6.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\equipes\\u9u8.webp",
+      "PackagePath": "staticwebassets\\assets\\equipes\\u9u8.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\fond1.jpg",
       "PackagePath": "staticwebassets\\assets\\fond1.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\fond2.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\fond2.jpg",
       "PackagePath": "staticwebassets\\assets\\fond2.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\fond3.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\fond2.webp",
+      "PackagePath": "staticwebassets\\assets\\fond2.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\fond3.jpg",
       "PackagePath": "staticwebassets\\assets\\fond3.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\anais.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\fond3.webp",
+      "PackagePath": "staticwebassets\\assets\\fond3.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\anais.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\anais.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\annick.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\anais.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\anais.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\annick.jpg",
       "PackagePath": "staticwebassets\\assets\\lebureau\\annick.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\arnaud.jpeg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\annick.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\annick.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\arnaud.jpeg",
       "PackagePath": "staticwebassets\\assets\\lebureau\\arnaud.jpeg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\cedric.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\arnaud.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\arnaud.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\cedric.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\cedric.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\david.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\cedric.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\cedric.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\david.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\david.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\default.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\david.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\david.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\default.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\default.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\florian.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\default.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\default.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\florian.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\florian.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\gilles.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\florian.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\florian.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\gilles.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\gilles.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\image9.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\gilles.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\gilles.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\image9.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\image9.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\julien.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\image9.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\image9.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\julien.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\julien.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\loic.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\julien.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\julien.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\loic.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\loic.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\loicraposo.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\loic.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\loic.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\loicraposo.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\loicraposo.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\maxence.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\loicraposo.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\loicraposo.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\maxence.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\maxence.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\miloud.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\maxence.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\maxence.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\miloud.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\miloud.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\nicolas.jpeg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\miloud.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\miloud.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\nicolas.jpeg",
       "PackagePath": "staticwebassets\\assets\\lebureau\\nicolas.jpeg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\romain.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\nicolas.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\nicolas.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\romain.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\romain.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\sebastien.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\romain.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\romain.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\sebastien.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\sebastien.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\veronique.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\sebastien.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\sebastien.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\veronique.jpg",
       "PackagePath": "staticwebassets\\assets\\lebureau\\veronique.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\vincent.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\veronique.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\veronique.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\vincent.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\vincent.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\william.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\vincent.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\vincent.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\william.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\william.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\yannis.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\william.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\william.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\yannis.png",
       "PackagePath": "staticwebassets\\assets\\lebureau\\yannis.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\logo.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\lebureau\\yannis.webp",
+      "PackagePath": "staticwebassets\\assets\\lebureau\\yannis.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\logo.ico",
+      "PackagePath": "staticwebassets\\assets\\logo.ico"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\logo.jpg",
       "PackagePath": "staticwebassets\\assets\\logo.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\mairie_coussa.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\logo.webp",
+      "PackagePath": "staticwebassets\\assets\\logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\mairie_coussa.png",
       "PackagePath": "staticwebassets\\assets\\mairie_coussa.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\mairie_pujol.png",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\mairie_coussa.webp",
+      "PackagePath": "staticwebassets\\assets\\mairie_coussa.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\mairie_pujol.png",
       "PackagePath": "staticwebassets\\assets\\mairie_pujol.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\39-GPFO21-ESPACE EMERAUDE.pdf",
-      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\39-GPFO21-ESPACE EMERAUDE.pdf"
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\mairie_pujol.webp",
+      "PackagePath": "staticwebassets\\assets\\mairie_pujol.webp"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\BVSCOP ENCART 2021.pdf",
-      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\BVSCOP ENCART 2021.pdf"
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\CBS.png",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\CBS.png"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\DESAMIANTAGE PEDOUSSAUT 1.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\CBS.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\CBS.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\CCTP.jpg",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\CCTP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\CCTP.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\CCTP.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\DESAMIANTAGE PEDOUSSAUT 1.jpg",
       "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\DESAMIANTAGE PEDOUSSAUT 1.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\GRAIN DE BEAUTE VERNIOLLE.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\GRAIN DE BEAUTE VERNIOLLE.jpg",
       "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\GRAIN DE BEAUTE VERNIOLLE.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\LN COIFF.jpg",
-      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\LN COIFF.jpg"
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\LNCOIFF.jpg",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\LNCOIFF.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\Logo CBS.pdf",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\Logo CBS.pdf",
       "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\Logo CBS.pdf"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\MR.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\MR.jpg",
       "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\MR.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\PUBS CALENDRIERS 3 2021 2022.pdf",
-      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\PUBS CALENDRIERS 3 2021 2022.pdf"
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\MR.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\MR.webp"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\RAUZY.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\OCISOL.jpg",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\OCISOL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\OCISOL.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\OCISOL.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\PHARMACIELATOUR.jpg",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\PHARMACIELATOUR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\RAUZY.jpg",
       "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\RAUZY.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\iad otta.tif",
-      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\iad otta.tif"
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\ROUSSEU.jpg",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\ROUSSEU.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\pf_jerome_logo.pdf",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\TAFFEQUIP.jpg",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\TAFFEQUIP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\TDP.jpg",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\TDP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\boulangeriedesgarcons.png",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\boulangeriedesgarcons.png"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\boulangeriedesgarcons.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\boulangeriedesgarcons.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\bvscop.png",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\bvscop.png"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\bvscop.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\bvscop.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\ciseauxdargent.png",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\ciseauxdargent.png"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\ciseauxdargent.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\ciseauxdargent.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\desamiantage-pedoussaut-1.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\desamiantage-pedoussaut-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\desamiantage.jpg",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\desamiantage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\espaceemeraude.png",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\espaceemeraude.png"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\espaceemeraude.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\espaceemeraude.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\grain-de-beaute-verniolle.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\grain-de-beaute-verniolle.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\graindebeauteveriolle.jpg",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\graindebeauteveriolle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\iadotta.png",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\iadotta.png"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\iadotta.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\iadotta.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\institutcoco.png",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\institutcoco.png"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\institutcoco.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\institutcoco.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\ln-coiff.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\ln-coiff.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\maisonnexon.png",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\maisonnexon.png"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\maisonnexon.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\maisonnexon.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\pf_jerome_logo.pdf",
       "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\pf_jerome_logo.pdf"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\pyr loc.jpg",
-      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\pyr loc.jpg"
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\pf_jerome_logo.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\pf_jerome_logo.webp"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\slide1.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\pharmacielatour.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\pharmacielatour.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\pyr-loc.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\pyr-loc.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\pyrloc.jpg",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\pyrloc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\rauzy.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\rauzy.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\rousseu.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\rousseu.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\taff-equip.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\taff-equip.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\partenaires\\tdp.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\partenaires\\tdp.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\slide1.jpg",
       "PackagePath": "staticwebassets\\assets\\slider\\slide1.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\slide2.jpg",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\slide1.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\slide1.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\slide2.jpg",
       "PackagePath": "staticwebassets\\assets\\slider\\slide2.jpg"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\slide2.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\slide2.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\slide_coupedefrance_vsfoix.jpg",
+      "PackagePath": "staticwebassets\\assets\\slider\\slide_coupedefrance_vsfoix.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\assets\\slider\\slide_coupedefrance_vsfoix.webp",
+      "PackagePath": "staticwebassets\\assets\\slider\\slide_coupedefrance_vsfoix.webp"
+    },
+    {
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\bootstrap\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\contact.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\contact.css",
       "PackagePath": "staticwebassets\\css\\contact.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\historique.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\historique.css",
       "PackagePath": "staticwebassets\\css\\historique.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\lebureau.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\lebureau.css",
       "PackagePath": "staticwebassets\\css\\lebureau.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\partenaires.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\partenaires.css",
       "PackagePath": "staticwebassets\\css\\partenaires.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\sites.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\sites.css",
       "PackagePath": "staticwebassets\\css\\sites.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\slick\\slick.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\slick\\slick.css",
       "PackagePath": "staticwebassets\\css\\slick\\slick.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\styles.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.esm.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.js",
       "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.js.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.min.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\bootstrap\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\jquery\\jquery-3.7.0.min.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\jquery\\jquery-3.7.0.min.js",
       "PackagePath": "staticwebassets\\js\\jquery\\jquery-3.7.0.min.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\loading.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\loading.js",
       "PackagePath": "staticwebassets\\js\\loading.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\script.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\slick\\slick.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\slick\\slick.js",
       "PackagePath": "staticwebassets\\js\\slick\\slick.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\slick\\slick.min.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\js\\slick\\slick.min.js",
       "PackagePath": "staticwebassets\\js\\slick\\slick.min.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\Equipes.html",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\Equipes.html",
       "PackagePath": "staticwebassets\\pages\\Equipes.html"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\Historique.html",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\Historique.html",
       "PackagePath": "staticwebassets\\pages\\Historique.html"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\Partenaires.html",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\Partenaires.html",
       "PackagePath": "staticwebassets\\pages\\Partenaires.html"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\Sites.html",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\Sites.html",
       "PackagePath": "staticwebassets\\pages\\Sites.html"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\contact.html",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\contact.html",
       "PackagePath": "staticwebassets\\pages\\contact.html"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\index.html",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\index.html",
       "PackagePath": "staticwebassets\\pages\\index.html"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\lebureau.html",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\pages\\lebureau.html",
       "PackagePath": "staticwebassets\\pages\\lebureau.html"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\templates\\footer.html",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\templates\\footer.html",
       "PackagePath": "staticwebassets\\templates\\footer.html"
     },
     {
-      "Id": "C:\\Users\\Nathan\\Documents\\git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\templates\\header.html",
+      "Id": "C:\\Users\\ns027\\OneDrive\\Documents\\Git\\SiteWeb-Coussa\\www\\WebApp\\WebApp\\wwwroot\\templates\\header.html",
       "PackagePath": "staticwebassets\\templates\\header.html"
     },
     {
